@@ -1,4 +1,5 @@
 # CPSC4374_LoginProject
+Done by connecting Eclipse IDE, MySQL, Tomcat 9.0, Oracle Java SE Development Kit, and Java Spring Boot framework
 
 Web Application written in Java
 
